@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-More informtion about me and my work on my [website](anssilampinen.com)
+More informtion about me and my work on my [website](https://anssilampinen.com)
 
 <!--
 **AnssiLampinen/AnssiLampinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
